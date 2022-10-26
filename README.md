@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, i'm [Fery Rahmadz](#), a passionate self-taught full stack web developer and a freelance software engineer from indonesia. Interested in learning and exploring more about Platform/Infra engineering, DevOps and Backend Development.
+Hi, i'm [Fery Rahmadz](#), a passionate self-taught full stack web developer and a freelance software engineer from indonesia. <br/>Interested in learning and exploring more about Platform/Infra engineering, DevOps and Backend Development.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
