@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/rahmadz/">
   <img align="left" alt="Rahmadz LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
+<a href="https://www.threads.net/yaelahferr/">
+  <img align="left" alt="Rahmadz Threads" width="22px" src="https://cdn.simpleicons.org/threads/white" />
+</a>
 
 ![]()
 
