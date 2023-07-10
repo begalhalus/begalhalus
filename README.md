@@ -4,7 +4,7 @@
   <img align="left" alt="Rahmadz Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/rahmadz/">
-  <img align="left" alt="Rahmadz LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Rahmadz LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 ![]()
